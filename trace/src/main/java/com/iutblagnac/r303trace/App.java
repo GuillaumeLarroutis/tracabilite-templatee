@@ -9,7 +9,10 @@ public class App {
     public static void main(String[] args) {
         System.out.println(hello());
     }
-
+	/**
+	 * Fonction HelloWorld
+	 * Affiche HelloWorld
+	 */
     public static String hello() {
         return "Hello World!";
     }
